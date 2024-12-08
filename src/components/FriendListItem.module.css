@@ -1,0 +1,26 @@
+.friend-item {
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+
+.status {
+    margin: 0;
+}
+
+.online {
+    color: green;
+    margin: 0;
+    font-size: 14px;
+}
+
+.offline {
+    color: red;
+    margin: 0;
+    font-size: 14px;
+}
+
+.friend-text{
+    font-weight: bold;
+    font-size: 16px;
+}
